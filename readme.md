@@ -16,3 +16,7 @@
 - import-annotation
 
     演示如何使用@Import, Import注解在4.2中已经升级，4.2之前只能用在接口类上，4.2之后可以用在普通的类上。通过@Import注解导入的类本身也会作为一个Bean。
+    
+- annotation
+
+    演示如何通过注解的方式引入Bean

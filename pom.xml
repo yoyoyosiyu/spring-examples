@@ -13,6 +13,7 @@
         <module>autowired-list</module>
         <module>constructor</module>
         <module>import-annotation</module>
+        <module>annotation</module>
     </modules>
 
     <properties>
